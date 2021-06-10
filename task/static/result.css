@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background:  linear-gradient(135deg, #71b7e6, #9b59b6);
+
+}
+div{
+    
+    background: floralwhite;
+    max-width: 500%;
+    height: 25vh;
+    padding: 25px 30px;
+    border-radius: 5px;
+    
+}
+#gender{
+  padding-left: 40px;
+  font-size: 30px;
+}
+
+p{
+    font-size: 25px;
+    font-family:  sans-serif;
+}
+button{
+    height: 35px;
+    margin: 10px 0;
+    width: 100%;
+    outline: none;
+    color: floralwhite;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    border: 1px solid #9b59b6;
+    border-radius: 5px;
+    font-size: 17px;
+}
